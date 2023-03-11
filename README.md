@@ -7,7 +7,8 @@ I used the **BFS search algorithm** to find the block groups (islands) on the gr
 **Level Editor Tool**
 By using the editor tool I developed, we can develop levels that have the type of blocks I want in the size I want and contain the targets we want.
 
-![image](https://user-images.githubusercontent.com/22244440/224505605-9ca26ddf-c02b-4624-b9a3-c54d4dd7581a.png)
+![image](https://user-images.githubusercontent.com/22244440/224506358-de2f4ab1-d119-4c38-9ad2-c85026354fe9.png)
+
 
 **Gameplay Video**
 
