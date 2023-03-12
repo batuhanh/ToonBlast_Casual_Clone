@@ -2,7 +2,7 @@
 
 The point I focused on while developing the project; It was to remain loyal to **Object Oriented Programming (OOP)** and **Event Driven Programming (EDP)**. I took care to use the right **Design Patterns** in the right places.
 
-I used the **BFS search algorithm** to find the block groups (islands) on the grid.
+I used the **DFS search algorithm** to find the block groups (islands) on the grid.
 
 **Level Editor Tool**
 By using the editor tool I developed, we can develop levels that have the type of blocks I want in the size I want and contain the targets we want.
